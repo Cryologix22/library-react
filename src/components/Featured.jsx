@@ -3,7 +3,6 @@ import Book from './ui/Book.jsx';
 import { books } from "../data.js";
 
 const Featured = () => {
-  function getFiveStarBooks() {}
   return (
     <section id="features">
       <div className="container">

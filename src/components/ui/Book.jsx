@@ -1,6 +1,4 @@
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import React, { useEffect, useRef, useState } from "react";
-import atomicHabits from "../../assets/atomic-habits.jpg";
 import { Link } from "react-router-dom/cjs/react-router-dom.min";
 import Rating from "./Rating";
 import Price from "./Price";
